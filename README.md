@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="120" src="https://media1.tenor.com/m/3wen1lf5mK8AAAAC/dragon-ball-z-goku.gif"  />
+<img align="right" height="300" src="https://media1.tenor.com/m/3wen1lf5mK8AAAAC/dragon-ball-z-goku.gif"  />
 
 ###
 
@@ -40,4 +40,3 @@
 <img src="https://raw.githubusercontent.com/ainzenBleach/ainzenBleach/output/snake.svg" alt="Snake animation" />
 
 ###
-
